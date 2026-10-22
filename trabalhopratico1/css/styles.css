@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: Italic,Helvetica,monospace;
+    background-color: hsl(0, 0%, 0%);
+    color: #FFFFFF;
+}  
+.imagens {
+    width: 100%;
+    height: auto;
+}
+h1 {
+    color: purple;
+}
+h2 {
+    color: yellow;
+}
+.header {
+    background-color: hsl(200, 5%, 35%);
+    padding: 20px;
+    text-align: center;
+    
+}
+.content {
+    margin: 20px;
+    padding: 20px;
+    background-color: hsl(200, 5%, 35%);
+    width: 40%;
+     
+}
